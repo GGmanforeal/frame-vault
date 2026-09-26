@@ -1,6 +1,6 @@
 # Frame Vault
 
-A simple video library for uploading and watching your own videos. It includes search, favorites, custom cover frames, and byte-range streaming for seeking.
+A simple video library for uploading and watching your own videos. It includes multi-file uploads with per-file progress and retry, search, favorites, custom cover frames, and byte-range streaming for seeking.
 
 ## Run locally
 
